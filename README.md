@@ -2,7 +2,7 @@
 
 A retro-style racing game written in Lua for the ComputerCraft: Tweaked mod in Minecraft.
 
-
+![Gameplay Screenshot](https://imgur.com/a/TFX4oye)
 
 The game continues until you crash. Enemies spawn on one of three lanes, your score increases over time by successfully dodging enemies.
 
